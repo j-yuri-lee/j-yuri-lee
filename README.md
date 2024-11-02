@@ -1,8 +1,8 @@
 ## Hey, I'm Yuri! 👋
 
-🎓 Studying CS & Chem at Williams College (c/o 2026)
-🔭 Breakthrough Tech AI Fellow
-💻 Currently working on analyzing generation/multi-modal retrieval tasks for Novartis
+🎓 Studying CS & Chem at Williams College (c/o 2026)\
+🔭 Breakthrough Tech AI Fellow\
+💻 Currently working on analyzing generation/multi-modal retrieval tasks for Novartis\
 <!--
 **j-yuri-lee/j-yuri-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
