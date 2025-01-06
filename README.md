@@ -2,7 +2,9 @@
 
 🎓 Studying CS & Chem at Williams College (c/o 2026)\
 🔭 Breakthrough Tech AI Fellow\
-💻 Currently working on analyzing generation/multi-modal retrieval tasks for Novartis\
+💻 Researched, analyzed, and implemented histopathological generation/multi-modal retrieval tasks for Novartis\
+:zap: Connect with me on [LinkedIn](https://www.linkedin.com/in/j-yuri-lee)!
+
 <!--
 **j-yuri-lee/j-yuri-lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
